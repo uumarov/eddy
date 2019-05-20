@@ -3,3 +3,4 @@ admin/
 *.class
 client/target/
 server/target/
+user.db
