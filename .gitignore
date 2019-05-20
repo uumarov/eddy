@@ -1,3 +1,5 @@
 .idea/
 admin/
-
+*.class
+client/target/
+server/target/
